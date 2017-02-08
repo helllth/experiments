@@ -1,3 +1,6 @@
+![alt tag](https://cismet.de/images/test.png)
+
+
 ---
 layout: post
 title: Blogging Like a Boss
@@ -25,3 +28,5 @@ a change
 6th change
 
 7th change
+
+
