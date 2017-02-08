@@ -1,10 +1,13 @@
-![alt tag](https://cismet.de/images/test.png)
-
 
 ---
 layout: post
 title: Blogging Like a Boss
 ---
+
+![alt tag](https://cismet.de/images/test.png)
+
+
+
 
 experiments
 ===========
