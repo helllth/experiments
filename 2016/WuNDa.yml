@@ -1,0 +1,54 @@
+# WuNDa
+start: -3.25
+adding: 1
+max: 5
+tasks:
+  old:
+  - issue: 489
+    booked: 1
+    correction: 0
+    from: 02/2013
+  jan:
+  feb:
+  mar:
+  apr:
+  - issue: 349
+    est: 3
+  - issue: 904
+    est: 0.5
+    cons: 0.75
+  may:
+  - issue: 920
+    est: 1.5
+    cons: 1.5
+  - issue: 901
+    est: 1.5
+    cons: 1.5
+  jun:
+  jul:
+  - issue: 947
+    est: 0.25
+    cons: 0.25
+  - issue: 949
+    est: 0.5
+    cons: 0.5
+  aug:
+  - issue: 952
+    est: 0.75
+    cons: 0.75
+  sep:
+  oct:
+  nov:
+  dec:
+© 2017 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+API
+Training
+Shop
+Blog
+About
