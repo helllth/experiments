@@ -1,7 +1,7 @@
 ### Zusammenfassung 2017.ALWIS.yaml
 <table>
             <tr>
-                <td>Letzte Aktualisierung</td><td>Mon Nov 06 2017 23:11:40 GMT+0100 (CET)</td>
+                <td>Letzte Aktualisierung</td><td>Mon Nov 06 2017 23:12:44 GMT+0100 (CET)</td>
             </tr>
             <tr>
                 <td>:date:</td><td>1.75</td>
@@ -18,7 +18,7 @@
                         <tr>
                             <th valign="top" align="left">Monat</th>
                             <th valign="top" align="left">Tasks</th>
-                            <th valign="bottom" align="right">:question:</th>
+                            <th valign="bottom" align="right">Budget</th>
                             </tr>
         
 <tr>
