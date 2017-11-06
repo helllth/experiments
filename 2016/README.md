@@ -1,7 +1,9 @@
+
+
 ### Zusammenfassung 2017.ALWIS.yaml
 <table>
             <tr>
-                <td>Letzte Aktualisierung</td><td>Tue Nov 07 2017 00:55:22 GMT+0100 (CET)</td>
+                <td>Letzte Aktualisierung</td><td>Tue Nov 07 2017 00:57:26 GMT+0100 (CET)</td>
             </tr>
             <tr>
                 <td>:date:</td><td>1.75</td>
@@ -24,7 +26,7 @@
 <tr>
                                 <td valign="top">jan</td>
                             <td>
-<a href="https://github.com/cismet/wupp/issues/1043"><img src="https://img.shields.io/badge/%231043%20-Billing%20%20%20Rechnungsanlage%20ben%C3%B6tigt%20Trennung%20der%20Baulasten%20und%20der%20Katasterausz%C3%BCge%20(1MT)%09%09%09%09-green.svg?style=flat?maxAge=1"/></a>
+<a href="https://github.com/cismet/wupp/issues/1043"><img src="https://img.shields.io/badge/%231043%20-Billing%20%20%20Rechnungsanlage%20ben%C3%B6tigt%20Trennung%20der%20Baulasten%20und%20der%20Katasterausz%C3%BCg%E2%80%A6%09%09%09%09-green.svg?style=flat?maxAge=1"/></a>
 <a href="https://github.com/cismet/wupp/issues/1043"><img src="https://img.shields.io/badge/cons%20-1-yellow.svg?style=flat?maxAge=1"/></a>
 <br>
 </td>
@@ -39,7 +41,7 @@
 <tr>
                                 <td valign="top">mar</td>
                             <td>
-<a href="https://github.com/cismet/wupp/issues/1118"><img src="https://img.shields.io/badge/%231118%20-Vermessungsunterlagenportal%3A%20unerwarteter%20Fehler%20ist%20beim%20Ausf%C3%BChren%20des%20Tasks%20NAS_Komplett%E2%80%A6%09%09%09%09-green.svg?style=flat?maxAge=1"/></a>
+<a href="https://github.com/cismet/wupp/issues/1118"><img src="https://img.shields.io/badge/%231118%20-Vermessungsunterlagenportal%3A%20unerwarteter%20Fehler%20ist%20beim%20Ausf%C3%BChren%20des%20Tasks%20NA%E2%80%A6%09%09%09%09-green.svg?style=flat?maxAge=1"/></a>
 <a href="https://github.com/cismet/wupp/issues/1118"><img src="https://img.shields.io/badge/cons%20-1-yellow.svg?style=flat?maxAge=1"/></a>
 <br>
 <a href="https://github.com/cismet/wupp/issues/1059"><img src="https://img.shields.io/badge/%231059%20-Anbindung%20Bestellformular%20Amtliche%20Basiskarte%20(ABK)%20(3%20MT)%09%09%09%09-green.svg?style=flat?maxAge=1"/></a>
@@ -109,10 +111,12 @@
                             <td align="right" valign="bottom">0.75</td>
                     </tr>
 </table>
+
+
 ### Zusammenfassung 2017.BelIS.yaml
 <table>
             <tr>
-                <td>Letzte Aktualisierung</td><td>Tue Nov 07 2017 00:55:25 GMT+0100 (CET)</td>
+                <td>Letzte Aktualisierung</td><td>Tue Nov 07 2017 00:57:29 GMT+0100 (CET)</td>
             </tr>
             <tr>
                 <td>:date:</td><td>0</td>
@@ -205,10 +209,12 @@
                             <td align="right" valign="bottom">3</td>
                     </tr>
 </table>
+
+
 ### Zusammenfassung 2017.LagIS.yaml
 <table>
             <tr>
-                <td>Letzte Aktualisierung</td><td>Tue Nov 07 2017 00:55:25 GMT+0100 (CET)</td>
+                <td>Letzte Aktualisierung</td><td>Tue Nov 07 2017 00:57:29 GMT+0100 (CET)</td>
             </tr>
             <tr>
                 <td>:date:</td><td>0.75</td>
@@ -252,7 +258,7 @@
 <tr>
                                 <td valign="top">apr</td>
                             <td>
-<a href="https://github.com/cismet/wupp/issues/1106"><img src="https://img.shields.io/badge/%231106%20-Lagis%3A%20Abteilungs%20IX%20Flurst%C3%BCck%20wird%20kein%20Datum%20der%20Historie%20eingetragen%20(0%2C25%20MT)%09%09%09%09-green.svg?style=flat?maxAge=1"/></a>
+<a href="https://github.com/cismet/wupp/issues/1106"><img src="https://img.shields.io/badge/%231106%20-Lagis%3A%20Abteilungs%20IX%20Flurst%C3%BCck%20wird%20kein%20Datum%20der%20Historie%20eingetragen%20(0%2C25%20MT%E2%80%A6%09%09%09%09-green.svg?style=flat?maxAge=1"/></a>
 <a href="https://github.com/cismet/wupp/issues/1106"><img src="https://img.shields.io/badge/cons%20-0.25-yellow.svg?style=flat?maxAge=1"/></a>
 <br>
 </td>
@@ -313,10 +319,12 @@
                             <td align="right" valign="bottom">4.75</td>
                     </tr>
 </table>
+
+
 ### Zusammenfassung 2017.VerdIS.yaml
 <table>
             <tr>
-                <td>Letzte Aktualisierung</td><td>Tue Nov 07 2017 00:55:26 GMT+0100 (CET)</td>
+                <td>Letzte Aktualisierung</td><td>Tue Nov 07 2017 00:57:31 GMT+0100 (CET)</td>
             </tr>
             <tr>
                 <td>:date:</td><td>-0.5</td>
@@ -360,7 +368,7 @@
 <tr>
                                 <td valign="top">apr</td>
                             <td>
-<a href="https://github.com/cismet/wupp/issues/1130"><img src="https://img.shields.io/badge/%231130%20-VerdIS%20%20%20Versickerungsgenehmigungen%3A%20Einspielen%20von%20Geometrien%20zu%20Versickerungsgenehmigung%E2%80%A6%09%09%09%09-green.svg?style=flat?maxAge=1"/></a>
+<a href="https://github.com/cismet/wupp/issues/1130"><img src="https://img.shields.io/badge/%231130%20-VerdIS%20%20%20Versickerungsgenehmigungen%3A%20Einspielen%20von%20Geometrien%20zu%20Versickerungsg%E2%80%A6%09%09%09%09-green.svg?style=flat?maxAge=1"/></a>
 <a href="https://github.com/cismet/wupp/issues/1130"><img src="https://img.shields.io/badge/cons%20-0.75-yellowgreen.svg?style=flat?maxAge=1"/></a>
 <br>
 </td>
@@ -427,10 +435,12 @@
                             <td align="right" valign="bottom">0.5</td>
                     </tr>
 </table>
+
+
 ### Zusammenfassung 2017.WuNDa.yaml
 <table>
             <tr>
-                <td>Letzte Aktualisierung</td><td>Tue Nov 07 2017 00:55:29 GMT+0100 (CET)</td>
+                <td>Letzte Aktualisierung</td><td>Tue Nov 07 2017 00:57:33 GMT+0100 (CET)</td>
             </tr>
             <tr>
                 <td>:date:</td><td>0.5</td>
