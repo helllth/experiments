@@ -1,7 +1,7 @@
 ### Zusammenfassung 2017.ALWIS.yaml
 <table>
             <tr>
-                <td>Letzte Aktualisierung</td><td>Mon Nov 06 2017 22:43:05 GMT+0100 (CET)</td>
+                <td>Letzte Aktualisierung</td><td>Mon Nov 06 2017 22:51:48 GMT+0100 (CET)</td>
             </tr>
             <tr>
                 <td>:date:</td><td>1.75</td>
@@ -26,13 +26,13 @@
                             <td>
 <a href="https://github.com/cismet/wupp/issues/1043"><img src="https://img.shields.io/badge/%231043%20-Erweiterung%20GUI%20Georeferenzierung%20(2%2C5%20MT)%09%09%09%09-green.svg?style=flat?maxAge=1"/></a><br/>
 </td>
-                                <td valign="bottom">1.25</td>
+                                <td align="right" valign="bottom">1.25</td>
                              </tr>
 <tr>
                                 <td valign="top">feb</td>
                             <td>
 </td>
-                                <td valign="bottom">1.75</td>
+                                <td align="right" valign="bottom">1.75</td>
                              </tr>
 <tr>
                                 <td valign="top">mar</td>
@@ -40,13 +40,13 @@
 <a href="https://github.com/cismet/wupp/issues/1118"><img src="https://img.shields.io/badge/%231118%20-Erweiterung%20GUI%20Georeferenzierung%20(2%2C5%20MT)%09%09%09%09-green.svg?style=flat?maxAge=1"/></a><br/>
 <a href="https://github.com/cismet/wupp/issues/1059"><img src="https://img.shields.io/badge/%231059%20-Erweiterung%20GUI%20Georeferenzierung%20(2%2C5%20MT)%09%09%09%09-green.svg?style=flat?maxAge=1"/></a><br/>
 </td>
-                                <td valign="bottom">-1.75</td>
+                                <td align="right" valign="bottom">-1.75</td>
                              </tr>
 <tr>
                                 <td valign="top">apr</td>
                             <td>
 </td>
-                                <td valign="bottom">-1.25</td>
+                                <td align="right" valign="bottom">-1.25</td>
                              </tr>
 <tr>
                                 <td valign="top">may</td>
@@ -54,48 +54,48 @@
 <a href="https://github.com/cismet/wupp/issues/1150"><img src="https://img.shields.io/badge/%231150%20-Erweiterung%20GUI%20Georeferenzierung%20(2%2C5%20MT)%09%09%09%09-green.svg?style=flat?maxAge=1"/></a><br/>
 <a href="https://github.com/cismet/wupp/issues/1149"><img src="https://img.shields.io/badge/%231149%20-Erweiterung%20GUI%20Georeferenzierung%20(2%2C5%20MT)%09%09%09%09-green.svg?style=flat?maxAge=1"/></a><br/>
 </td>
-                                <td valign="bottom">-2.75</td>
+                                <td align="right" valign="bottom">-2.75</td>
                              </tr>
 <tr>
                                 <td valign="top">jun</td>
                             <td>
 </td>
-                                <td valign="bottom">-2.25</td>
+                                <td align="right" valign="bottom">-2.25</td>
                              </tr>
 <tr>
                                 <td valign="top">jul</td>
                             <td>
 </td>
-                                <td valign="bottom">-1.75</td>
+                                <td align="right" valign="bottom">-1.75</td>
                              </tr>
 <tr>
                                 <td valign="top">aug</td>
                             <td>
 </td>
-                                <td valign="bottom">-1.25</td>
+                                <td align="right" valign="bottom">-1.25</td>
                              </tr>
 <tr>
                                 <td valign="top">sep</td>
                             <td>
 </td>
-                                <td valign="bottom">-0.75</td>
+                                <td align="right" valign="bottom">-0.75</td>
                              </tr>
 <tr>
                                 <td valign="top">oct</td>
                             <td>
 </td>
-                                <td valign="bottom">-0.25</td>
+                                <td align="right" valign="bottom">-0.25</td>
                              </tr>
 <tr>
                                 <td valign="top">nov</td>
                             <td>
 </td>
-                                <td valign="bottom">0.25</td>
+                                <td align="right" valign="bottom">0.25</td>
                              </tr>
 <tr>
                                 <td valign="top">dec</td>
                             <td>
 </td>
-                                <td valign="bottom">0.75</td>
+                                <td align="right" valign="bottom">0.75</td>
                              </tr>
 </table>
