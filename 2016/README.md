@@ -1,7 +1,7 @@
 ### Zusammenfassung 2017.ALWIS.yaml
 <table>
             <tr>
-                <td>Letzte Aktualisierung</td><td>Tue Nov 07 2017 00:42:43 GMT+0100 (CET)</td>
+                <td>Letzte Aktualisierung</td><td>Tue Nov 07 2017 00:47:32 GMT+0100 (CET)</td>
             </tr>
             <tr>
                 <td>:date:</td><td>1.75</td>
@@ -24,7 +24,7 @@
 <tr>
                                 <td valign="top">jan</td>
                             <td>
-<a href="https://github.com/cismet/wupp/issues/1043"><img src="https://img.shields.io/badge/%231043%20-Billing%20-%20Rechnungsanlage%20ben%C3%B6tigt%20Trennung%20der%20Baulasten%20und%20der%20Katasterausz%C3%BCge%20(1MT)%09%09%09%09-green.svg?style=flat?maxAge=1"/></a>
+<a href="https://github.com/cismet/wupp/issues/1043"><img src="https://img.shields.io/badge/%231043%20-Billing%20%20%20Rechnungsanlage%20ben%C3%B6tigt%20Trennung%20der%20Baulasten%20und%20der%20Katasterausz%C3%BCge%20(1MT)%09%09%09%09-green.svg?style=flat?maxAge=1"/></a>
 <a href="https://github.com/cismet/wupp/issues/1043"><img src="https://img.shields.io/badge/cons%20-1-yellow.svg?style=flat?maxAge=1"/></a>
 <br>
 </td>
