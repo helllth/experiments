@@ -1,7 +1,7 @@
 ### Zusammenfassung 2017.ALWIS.yaml
 <table>
             <tr>
-                <td>Letzte Aktualisierung</td><td>Mon Nov 06 2017 22:39:37 GMT+0100 (CET)</td>
+                <td>Letzte Aktualisierung</td><td>Mon Nov 06 2017 22:43:05 GMT+0100 (CET)</td>
             </tr>
             <tr>
                 <td>:date:</td><td>1.75</td>
@@ -23,8 +23,8 @@
         
 <tr>
                                 <td valign="top">jan</td>
-                            <td><a href="https://github.com/cismet/wuppsssssdsdsdsdssdsdssssss/issues/">
-<img src="https://img.shields.io/badge/%231043%20-Erweiterung%20GUI%20Georeferenzierung%20(2%2C5%20MT)%09%09%09%09-green.svg?style=flat?maxAge=1"/></a><br/>
+                            <td>
+<a href="https://github.com/cismet/wupp/issues/1043"><img src="https://img.shields.io/badge/%231043%20-Erweiterung%20GUI%20Georeferenzierung%20(2%2C5%20MT)%09%09%09%09-green.svg?style=flat?maxAge=1"/></a><br/>
 </td>
                                 <td valign="bottom">1.25</td>
                              </tr>
@@ -37,8 +37,8 @@
 <tr>
                                 <td valign="top">mar</td>
                             <td>
-<img src="https://img.shields.io/badge/%231118%20-Erweiterung%20GUI%20Georeferenzierung%20(2%2C5%20MT)%09%09%09%09-green.svg?style=flat?maxAge=1"/><br/>
-<img src="https://img.shields.io/badge/%231059%20-Erweiterung%20GUI%20Georeferenzierung%20(2%2C5%20MT)%09%09%09%09-green.svg?style=flat?maxAge=1"/><br/>
+<a href="https://github.com/cismet/wupp/issues/1118"><img src="https://img.shields.io/badge/%231118%20-Erweiterung%20GUI%20Georeferenzierung%20(2%2C5%20MT)%09%09%09%09-green.svg?style=flat?maxAge=1"/></a><br/>
+<a href="https://github.com/cismet/wupp/issues/1059"><img src="https://img.shields.io/badge/%231059%20-Erweiterung%20GUI%20Georeferenzierung%20(2%2C5%20MT)%09%09%09%09-green.svg?style=flat?maxAge=1"/></a><br/>
 </td>
                                 <td valign="bottom">-1.75</td>
                              </tr>
@@ -51,8 +51,8 @@
 <tr>
                                 <td valign="top">may</td>
                             <td>
-<img src="https://img.shields.io/badge/%231150%20-Erweiterung%20GUI%20Georeferenzierung%20(2%2C5%20MT)%09%09%09%09-green.svg?style=flat?maxAge=1"/><br/>
-<img src="https://img.shields.io/badge/%231149%20-Erweiterung%20GUI%20Georeferenzierung%20(2%2C5%20MT)%09%09%09%09-green.svg?style=flat?maxAge=1"/><br/>
+<a href="https://github.com/cismet/wupp/issues/1150"><img src="https://img.shields.io/badge/%231150%20-Erweiterung%20GUI%20Georeferenzierung%20(2%2C5%20MT)%09%09%09%09-green.svg?style=flat?maxAge=1"/></a><br/>
+<a href="https://github.com/cismet/wupp/issues/1149"><img src="https://img.shields.io/badge/%231149%20-Erweiterung%20GUI%20Georeferenzierung%20(2%2C5%20MT)%09%09%09%09-green.svg?style=flat?maxAge=1"/></a><br/>
 </td>
                                 <td valign="bottom">-2.75</td>
                              </tr>
