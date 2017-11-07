@@ -27,8 +27,7 @@
 <tr>
                                 <td valign="top">jan</td>
                             <td>
-<a target="_blank" href="https://github.com/cismet/wupp/issues/1043"><img src="https://img.shields.io/badge/%231043%20-Billing%20%20%20Rechnungsanlage%20ben%C3%B6tigt%20Trennung%20der%20Baulasten%20und%20der%20Katasterausz%C3%BCg%E2%80%A6%09%09%09%09-green.svg?style=flat?maxAge=1"/></a>
-<a target="_blank" href="https://github.com/cismet/wupp/issues/1043"><img src="https://img.shields.io/badge/cons%20-1-yellow.svg?style=flat?maxAge=1"/></a>
+<a target="_blank" href="https://github.com/cismet/wupp/issues/1043"><img src="https://img.shields.io/badge/%231043%20-Billing%20%20%20RechnungsanlRechnungsanlRechnungsanlRechnungsanlRechnungsanlRechnungsanlRechnungsanlRechnungsanlRechnungsanlage%20ben%C3%B6tigt%20Trennung%20der%20Baulasten%20und%20der%20Katasterausz%C3%BCg%E2%80%A6%09%09%09%09-green.svg?style=flat?maxAge=1"/></a>
 <br>
 </td>
                         <td align="right" valign="bottom">1.25</td>
