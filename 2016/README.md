@@ -3,7 +3,7 @@
 ### Zusammenfassung 2017.ALWIS.yaml
 <table>
             <tr>
-                <td>Letzte Aktualisierung</td><td>Tue Nov 07 2017 01:04:45 GMT+0100 (CET)</td>
+                <td>Letzte Aktualisierung</td><td>Tue Nov 07 2017 01:10:11 GMT+0100 (CET)</td>
             </tr>
             <tr>
                 <td>:date:</td><td>1.75</td>
@@ -116,7 +116,7 @@
 ### Zusammenfassung 2017.BelIS.yaml
 <table>
             <tr>
-                <td>Letzte Aktualisierung</td><td>Tue Nov 07 2017 01:04:48 GMT+0100 (CET)</td>
+                <td>Letzte Aktualisierung</td><td>Tue Nov 07 2017 01:10:13 GMT+0100 (CET)</td>
             </tr>
             <tr>
                 <td>:date:</td><td>0</td>
@@ -139,74 +139,77 @@
 <tr>
                                 <td valign="top">jan</td>
                             <td>
+<a target="_blank" href="https://github.com/cismet/wupp/issues/873"><img src="https://img.shields.io/badge/%23873%20-Farbliche%20Markierung%20in%20den%20Arbeitsauftr%C3%A4gen%20anpassen%20(1MT)%09%09%09%09-green.svg?style=flat?maxAge=1"/></a>
+<a target="_blank" href="https://github.com/cismet/wupp/issues/873"><img src="https://img.shields.io/badge/cons%20-1-yellow.svg?style=flat?maxAge=1"/></a>
+<br>
 </td>
-                            <td align="right" valign="bottom">0.25</td>
+                            <td align="right" valign="bottom">-0.75</td>
                     </tr>
 <tr>
                                 <td valign="top">feb</td>
                             <td>
 </td>
-                            <td align="right" valign="bottom">0.5</td>
+                            <td align="right" valign="bottom">-0.5</td>
                     </tr>
 <tr>
                                 <td valign="top">mar</td>
                             <td>
 </td>
-                            <td align="right" valign="bottom">0.75</td>
+                            <td align="right" valign="bottom">-0.25</td>
                     </tr>
 <tr>
                                 <td valign="top">apr</td>
                             <td>
 </td>
-                            <td align="right" valign="bottom">1</td>
+                            <td align="right" valign="bottom">0</td>
                     </tr>
 <tr>
                                 <td valign="top">may</td>
                             <td>
 </td>
-                            <td align="right" valign="bottom">1.25</td>
+                            <td align="right" valign="bottom">0.25</td>
                     </tr>
 <tr>
                                 <td valign="top">jun</td>
                             <td>
 </td>
-                            <td align="right" valign="bottom">1.5</td>
+                            <td align="right" valign="bottom">0.5</td>
                     </tr>
 <tr>
                                 <td valign="top">jul</td>
                             <td>
 </td>
-                            <td align="right" valign="bottom">1.75</td>
+                            <td align="right" valign="bottom">0.75</td>
                     </tr>
 <tr>
                                 <td valign="top">aug</td>
                             <td>
 </td>
-                            <td align="right" valign="bottom">2</td>
+                            <td align="right" valign="bottom">1</td>
                     </tr>
 <tr>
                                 <td valign="top">sep</td>
                             <td>
 </td>
-                            <td align="right" valign="bottom">2.25</td>
+                            <td align="right" valign="bottom">1.25</td>
                     </tr>
 <tr>
                                 <td valign="top">oct</td>
                             <td>
 </td>
-                            <td align="right" valign="bottom">2.5</td>
+                            <td align="right" valign="bottom">1.5</td>
                     </tr>
 <tr>
                                 <td valign="top">nov</td>
                             <td>
 </td>
-                            <td align="right" valign="bottom">2.75</td>
+                            <td align="right" valign="bottom">1.75</td>
                     </tr>
 <tr>
                                 <td valign="top">dec</td>
                             <td>
 </td>
-                            <td align="right" valign="bottom">3</td>
+                            <td align="right" valign="bottom">2</td>
                     </tr>
 </table>
 
@@ -214,7 +217,7 @@
 ### Zusammenfassung 2017.LagIS.yaml
 <table>
             <tr>
-                <td>Letzte Aktualisierung</td><td>Tue Nov 07 2017 01:04:48 GMT+0100 (CET)</td>
+                <td>Letzte Aktualisierung</td><td>Tue Nov 07 2017 01:10:14 GMT+0100 (CET)</td>
             </tr>
             <tr>
                 <td>:date:</td><td>0.75</td>
@@ -324,7 +327,7 @@
 ### Zusammenfassung 2017.VerdIS.yaml
 <table>
             <tr>
-                <td>Letzte Aktualisierung</td><td>Tue Nov 07 2017 01:04:50 GMT+0100 (CET)</td>
+                <td>Letzte Aktualisierung</td><td>Tue Nov 07 2017 01:10:16 GMT+0100 (CET)</td>
             </tr>
             <tr>
                 <td>:date:</td><td>-0.5</td>
@@ -440,7 +443,7 @@
 ### Zusammenfassung 2017.WuNDa.yaml
 <table>
             <tr>
-                <td>Letzte Aktualisierung</td><td>Tue Nov 07 2017 01:04:52 GMT+0100 (CET)</td>
+                <td>Letzte Aktualisierung</td><td>Tue Nov 07 2017 01:10:19 GMT+0100 (CET)</td>
             </tr>
             <tr>
                 <td>:date:</td><td>0.5</td>
