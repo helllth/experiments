@@ -3,7 +3,7 @@
 ### Zusammenfassung 2017.ALWIS.yaml
 <table>
             <tr>
-                <td>Letzte Aktualisierung</td><td>Tue Nov 07 2017 08:35:51 GMT+0100 (CET)</td>
+                <td>Letzte Aktualisierung</td><td>Tue Nov 07 2017 08:38:07 GMT+0100 (CET)</td>
             </tr>
             <tr>
                 <td>:date:</td><td>1.75</td>
@@ -21,8 +21,7 @@
                             <th valign="top" align="left">Monat</th>
                             <th valign="top" align="left">Tasks</th>
                             <th valign="bottom" align="right">Budget</th>
-                            <th valign="bottom" align="right">Budget</th>
-                            <th valign="bottom" align="right">Budget</th>
+                 
                             </tr>
         
 <tr>
@@ -122,7 +121,7 @@
 ### Zusammenfassung 2017.BelIS.yaml
 <table>
             <tr>
-                <td>Letzte Aktualisierung</td><td>Tue Nov 07 2017 08:35:54 GMT+0100 (CET)</td>
+                <td>Letzte Aktualisierung</td><td>Tue Nov 07 2017 08:38:10 GMT+0100 (CET)</td>
             </tr>
             <tr>
                 <td>:date:</td><td>0</td>
@@ -140,8 +139,7 @@
                             <th valign="top" align="left">Monat</th>
                             <th valign="top" align="left">Tasks</th>
                             <th valign="bottom" align="right">Budget</th>
-                            <th valign="bottom" align="right">Budget</th>
-                            <th valign="bottom" align="right">Budget</th>
+                 
                             </tr>
         
 <tr>
@@ -225,7 +223,7 @@
 ### Zusammenfassung 2017.LagIS.yaml
 <table>
             <tr>
-                <td>Letzte Aktualisierung</td><td>Tue Nov 07 2017 08:35:55 GMT+0100 (CET)</td>
+                <td>Letzte Aktualisierung</td><td>Tue Nov 07 2017 08:38:11 GMT+0100 (CET)</td>
             </tr>
             <tr>
                 <td>:date:</td><td>0.75</td>
@@ -243,8 +241,7 @@
                             <th valign="top" align="left">Monat</th>
                             <th valign="top" align="left">Tasks</th>
                             <th valign="bottom" align="right">Budget</th>
-                            <th valign="bottom" align="right">Budget</th>
-                            <th valign="bottom" align="right">Budget</th>
+                 
                             </tr>
         
 <tr>
@@ -339,7 +336,7 @@
 ### Zusammenfassung 2017.VerdIS.yaml
 <table>
             <tr>
-                <td>Letzte Aktualisierung</td><td>Tue Nov 07 2017 08:35:57 GMT+0100 (CET)</td>
+                <td>Letzte Aktualisierung</td><td>Tue Nov 07 2017 08:38:13 GMT+0100 (CET)</td>
             </tr>
             <tr>
                 <td>:date:</td><td>-0.5</td>
@@ -357,8 +354,7 @@
                             <th valign="top" align="left">Monat</th>
                             <th valign="top" align="left">Tasks</th>
                             <th valign="bottom" align="right">Budget</th>
-                            <th valign="bottom" align="right">Budget</th>
-                            <th valign="bottom" align="right">Budget</th>
+                 
                             </tr>
         
 <tr>
@@ -461,7 +457,7 @@
 ### Zusammenfassung 2017.WuNDa.yaml
 <table>
             <tr>
-                <td>Letzte Aktualisierung</td><td>Tue Nov 07 2017 08:36:00 GMT+0100 (CET)</td>
+                <td>Letzte Aktualisierung</td><td>Tue Nov 07 2017 08:38:16 GMT+0100 (CET)</td>
             </tr>
             <tr>
                 <td>:date:</td><td>0.5</td>
@@ -479,8 +475,7 @@
                             <th valign="top" align="left">Monat</th>
                             <th valign="top" align="left">Tasks</th>
                             <th valign="bottom" align="right">Budget</th>
-                            <th valign="bottom" align="right">Budget</th>
-                            <th valign="bottom" align="right">Budget</th>
+                 
                             </tr>
         
 <tr>
